@@ -19,8 +19,6 @@ func main() {
 		symbols = "!@#$%^&*()_+-=[]{}|;:,./<>?"
 	)
 
-	// generates the password using time as a seed
-
 	// combines all possible characters into a single string
 	allChars := letters + numbers + symbols
 
